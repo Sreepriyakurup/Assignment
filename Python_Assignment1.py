@@ -55,6 +55,7 @@
 bacon = 22
 bacon + 1
 
+23
 
 # 7. What should the values of the following two terms be?
 
@@ -63,12 +64,14 @@ bacon + 1
 
 'spam' + 'spamspam'
 
+'spamspamspam'
 
 # In[3]:
 
 
 'spam' * 3
 
+'spamspamspam'
 
 # 8. Why is eggs a valid variable name while 100 is invalid?
 # 
